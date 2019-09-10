@@ -1,22 +1,18 @@
 [
-{
-    'id': 0,
-    'text': 'enhancement'
-},
-{
-    'id': 1,
-    'text': 'bug'
-},
- {
-    'id': 2,
-    'text': 'duplicate'
-},
-{
-    'id': 3,
-    'text': 'invalid'
-},
-{
-    'id': 4,
-    'text': 'wontfix'
-}
-]
+  {
+    "id": 1,
+    "text": "Bandung",
+    },
+  {
+    "id": 2,
+    "text": "Jakarta",
+   },
+  {
+    "id": 3,
+    "text": "Semarang",
+     },
+  {
+    "id": 4,
+    "text": "Yogyakarta",
+     },
+ ]
