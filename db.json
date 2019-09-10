@@ -1,4 +1,3 @@
-[
 {
     id: 0,
     text: 'enhancement'
@@ -19,4 +18,3 @@
     id: 4,
     text: 'wontfix'
 }
-]
